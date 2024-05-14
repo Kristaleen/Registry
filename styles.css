@@ -8,11 +8,11 @@
 /* Body styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9; 
+    background-color: #add8e6; 
     color: #333;
     line-height: 1.6;
     margin: 0;
-    padding: 0;
+    padding: 0; 
 }
 
 /* Header styles */
@@ -106,8 +106,7 @@ footer {
 
 /* Content Box Styles */
 .content-box {
-    background-color: #fff;
-    border: 1px solid #e0e0e0; 
+    background-color: #e7feff ;
     border-radius: 5px;
     padding: 20px;
     margin-top: 20px;
